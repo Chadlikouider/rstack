@@ -1,0 +1,16 @@
+{
+    "name": "rstack",
+    "owner": {
+      "name": "Kouider Chadli"
+    },
+    "metadata": {
+      "description": "rstack: rigorous agent workflows for writing less code of higher quality."
+    },
+    "plugins": [
+      {
+        "name": "rstack",
+        "source": "./",
+        "description": "Go deep to go fast. rstack helps you write less code of higher quality through rigorous agent workflows you can parallelize with confidence."
+      }
+    ]
+  }

@@ -1,0 +1,34 @@
+{
+    "name": "rstack",
+    "version": "0.0.1",
+    "description": "Go deep to go fast. rstack helps you write less code of higher quality through rigorous agent workflows you can parallelize with confidence.",
+    "author": {
+      "name": "Kouider Chadli"
+    },
+    "homepage": "https://github.com/Chadlikouider/rstack",
+    "repository": "https://github.com/Chadlikouider/rstack",
+    "license": "MIT",
+    "keywords": [
+      "pstack",
+      "lab-mode",
+      "workflow",
+      "principles",
+      "agent-style",
+      "subagents",
+      "unslop"
+    ],
+    "skills": "./skills/",
+    "interface": {
+      "displayName": "rstack",
+      "shortDescription": "Rigorous agent workflows for less, better code",
+      "longDescription": "Go deep to go fast. rstack helps you write less code of higher quality through rigorous agent workflows you can parallelize with confidence.",
+      "developerName": "Kouider Chadli",
+      "category": "Productivity",
+      "websiteURL": "https://github.com/Chadlikouider/rstack",
+      "defaultPrompt": [
+        "Use rstack to plan this change before writing any code.",
+        "Use rstack to review my diff and cut anything unnecessary."
+      ],
+      "logo": "./assets/logo.png"
+    }
+  }

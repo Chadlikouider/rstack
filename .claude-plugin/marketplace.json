@@ -1,0 +1,16 @@
+{
+    "name": "rstack",
+    "description": "Rigorous agent workflows for writing less code of higher quality.",
+    "owner": {
+      "name": "Kouider Chadli"
+    },
+    "plugins": [
+      {
+        "name": "rstack",
+        "source": "./",
+        "description": "Go deep to go fast. rstack helps you write less code of higher quality through rigorous agent workflows you can parallelize with confidence.",
+        "category": "developer-tools",
+        "tags": ["workflow", "principles", "review", "planning"]
+      }
+    ]
+  }
